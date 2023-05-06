@@ -4,5 +4,4 @@
         Slug: {{ $route.params.slug }}
       </p>
     </div>
-
 </template>
