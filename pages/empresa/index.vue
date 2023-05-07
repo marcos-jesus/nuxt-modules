@@ -1,8 +1,4 @@
 <script>
-export default defineNuxtRouteMiddleware((to, from) => {
-  console.log(to)
-  console.log(from)
-})
 </script>
 <template>
   <h1 class="text-lg font-bold mt-5 mb-5">A empresa</h1> 

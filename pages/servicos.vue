@@ -1,3 +1,10 @@
+<script>
+export default {
+  setup() {
+ 
+  }
+}
+</script>
 <template>
   <h1 class="text-lg font-bold space-x-4 mt-5 mb-5">Serviços</h1>
 
